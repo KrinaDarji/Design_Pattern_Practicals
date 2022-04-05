@@ -1,0 +1,15 @@
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
