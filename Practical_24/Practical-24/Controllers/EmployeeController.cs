@@ -26,5 +26,24 @@ namespace Practical_24.Controllers
         {
             return mediator.Send(new GetEmployee() { EMP_ID = EmpId });
         }
+
+        [HttpPost]
+        public Task<Employee> PostEmployeeInfo([FromBody] Employee employee)
+        {
+            return mediator.Send(new PostEmployee() { Employee = employee });
+        }
+
+        [HttpPut]
+        public Task<Employee> PutEmployeeInfo([FromBody] Employee employee)
+        {
+            return mediator.Send(new PutEmployee() { Employee = employee });
+        }
+
+
+        [HttpDelete]
+        public Task<bool> DeleteEmployeeInfo(int id)
+        {
+            return mediator.Send(new DeleteEmployee() { Emp_Id = id });
+        }
     }
 }

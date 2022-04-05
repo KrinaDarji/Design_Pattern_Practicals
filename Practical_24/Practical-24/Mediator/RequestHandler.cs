@@ -21,7 +21,22 @@ namespace Practical_24.Mediator
         public Task<Employee> Handle(GetEmployee request, CancellationToken cancellationToken)
         {
             return Task.FromResult(employeeRepositories.GetEmployeeByID(request.EMP_ID));
-                
+
+        }
+
+        public Task<Employee> Handle(PostEmployee request, CancellationToken cancellationToken)
+        {
+            return Task.FromResult(employeeRepositories.PostEmployee(request.Employee));
+        }
+
+        public Task<Employee> Handle(PutEmployee request, CancellationToken cancellationToken)
+        {
+            return Task.FromResult(employeeRepositories.UpdateEmployee(request.Employee));
+        }
+
+        public Task<bool> Handle(DeleteEmployee request, CancellationToken cancellationToken)
+        {
+            return Task.FromResult(employeeRepositories.DeleteEmployee(request.Emp_Id));
         }
     }
 }

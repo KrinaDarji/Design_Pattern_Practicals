@@ -11,9 +11,9 @@ namespace Practical_24
     public interface IEmployeeRepositories
     {
         Task<List<Employee>> GetEmployee();
-        Task<Employee> PostEmployee(Employee employee);
-        Task<Employee> UpdateEmployee(Employee employee);
-        Task<bool> DeleteEmployee(int id);
+        Employee PostEmployee(Employee employee);
+        Employee UpdateEmployee(Employee employee);
+        bool DeleteEmployee(int id);
         Employee GetEmployeeByID(int id);
     }
 }
