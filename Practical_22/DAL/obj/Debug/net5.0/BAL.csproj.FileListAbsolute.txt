@@ -1,0 +1,14 @@
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\BAL.runtimeconfig.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\BAL.runtimeconfig.dev.json
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\BAL.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_22\DAL\obj\Debug\net5.0\BAL.genruntimeconfig.cache

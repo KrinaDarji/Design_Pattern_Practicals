@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\krina\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krina\\.nuget\\packages"
+    ]
+  }
+}
