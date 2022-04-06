@@ -51,7 +51,6 @@ C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\Practical_21.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\Practical_21.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\staticwebassets\Practical_21.StaticWebAssets.Manifest.cache
-C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\staticwebassets\Practical_21.StaticWebAssets.xml
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\scopedcss\bundle\Practical_21.styles.css
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\Practical_21.RazorTargetAssemblyInfo.cache
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\Practical_21.csproj.CopyComplete
@@ -61,3 +60,4 @@ C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\obj\Debug\net5.0\Practical_21.genruntimeconfig.cache
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\bin\Debug\net5.0\Humanizer.dll
 C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krina\Documents\Design_Pattern_Practicals\Practical_21\Practical_21\bin\Debug\net5.0\Practical_21.StaticWebAssets.xml

@@ -7,14 +7,26 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Model
 {
-    public class Service
+    public sealed class Service
     {
+      
         private readonly ApplicationDBContext context;
-
-        public Service(ApplicationDBContext context)
+        private static Service instance = null; public Service(ApplicationDBContext context)
         {
             this.context = context;
         }
+        private Service() { }
+        public static Service GetInstance
+        {
+            get
+            {
+                if (instance == null)
+                    instance = new Service();
+                return instance;
+            }
+        }
+
+
         public async Task<bool> AddEmployee(Employee employee)
         {
             if (employee == null)
