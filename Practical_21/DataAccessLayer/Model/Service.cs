@@ -11,7 +11,8 @@ namespace DataAccessLayer.Model
     {
       
         private readonly ApplicationDBContext context;
-        private static Service instance = null; public Service(ApplicationDBContext context)
+        private static Service instance = null; 
+        public Service(ApplicationDBContext context)
         {
             this.context = context;
         }
